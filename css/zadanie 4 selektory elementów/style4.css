@@ -1,0 +1,39 @@
+*{
+    font-family: Ebrima;
+    font-size: 12px;
+    background-color: palevioletred;
+}
+h4 , h5 {
+    color: orangered;
+    font-size: 2rem;
+    background-color: red;
+}
+p.lorem{
+    color: red;
+    background-color: #128870;
+}
+.lorem{
+    padding: 3rem;
+    background-color: #6a3d37;
+}
+#lorem100{
+    color: purple;
+    background-color: #f36742;
+}
+li > h1 {
+    color: blue;
+    background-color: blueviolet;
+}
+li p{
+    color: greenyellow;
+    background-color: sandybrown;
+}
+h2~p{
+    color: blue;
+    background-color: darkslategray;
+
+}
+h3 + p{
+    color: palevioletred;
+    background-color: coral;
+}

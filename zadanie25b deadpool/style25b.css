@@ -1,0 +1,49 @@
+#all{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 538px;
+    background-image: url("deadpool1-gallery-image.jpg");
+
+}
+#gora{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    height: 50px   ;
+    width: 1000px;
+    border-bottom: dotted;
+    text-align: center;
+
+
+}
+#lista{
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    opacity: 0.7;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+
+}
+#stopka{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    height: 50px   ;
+    width: 1000px;
+    border-top: dotted;
+    text-align: center;
+}
+
+
+

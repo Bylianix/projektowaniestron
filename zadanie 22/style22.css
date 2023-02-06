@@ -1,0 +1,62 @@
+#goral {
+    width: 30%;
+    height: 100px;
+    background-color: black ;
+    float: left;
+}
+#gorar
+{
+    width: 70%;
+    height: 100px;
+    background-color: black ;
+    float: right;
+    text-align: center;
+    color: yellow;
+}
+#menu
+{
+    width: 30%;
+    height: 400px;
+    background-color: gray ;
+    float: left;
+
+    margin: auto;
+    color: yellow;
+}
+#lista
+{
+    width: 70%;
+    height: 550px;
+    background-color: yellow ;
+    float: right;
+    margin: auto;
+    
+
+
+
+}
+body{
+    background-color: lightseagreen;
+}
+#stopkal
+{
+    width: 30%;
+    height: 100px;
+    background-color: black ;
+    float: left;
+}
+#stopkar
+{
+    width: 70%;
+    height: 100px;
+    background-color: black ;
+    float: right;
+    text-align: center;
+    color: white;
+}
+#nb
+{
+    width: 30%;
+    height: 150px;
+    float: left;
+}

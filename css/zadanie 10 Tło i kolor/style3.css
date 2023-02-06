@@ -1,0 +1,7 @@
+body {
+    background-image: url("strzałka.png");
+    background-repeat: no-repeat;
+    background-repeat: repeat-y;
+    background-position: right;
+    padding-right: 400px;
+}

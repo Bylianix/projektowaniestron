@@ -1,0 +1,46 @@
+<html lang="pl">
+<head>
+ <meta charset="utf-8">
+ <title>Znaczniki &lt;progress&gt; i &lt;meter&gt;</title>
+<style>
+body {
+ font-family: 'Palatino Linotype', serif;
+}
+h1 {
+ font-size: x-large;
+ margin-top: 20px;
+ margin-bottom: 0px;
+}
+p {
+ margin: 2px;
+}
+.separatedSection {
+ margin-top: 20px;
+}
+</style>
+</head>
+<body>
+<h1>Paski postępu</h1>
+Postęp: <progress max=100 value=50>50%</progress><br>
+Postęp: <progress>Wykonywanie zadania w toku... </progress>
+<h1>Wskaźniki</h1>
+Twoja walizka waży: <meter min="2" max="20" value="16">13 kilogramów</meter><br>
+Twoja walizka waży: <meter min="2" max="20" low="4" high="15" value="16">16
+kilogramów</meter>*
+<p><small>* Bagaże cięższe niż 15 kilogramów podlegają dodatkowej opłacie.</small></p>
+9
+<div class="separatedSection">
+<p>Naszym celem jest zebranie 50 000 dolarów na rzecz fundacji FRL (Fundacja Ratowania
+Lemingów).</p>
+<p>Do tej pory zebraliśmy 14 000 dolarów. <meter max="50000" value="14000"></meter>
+</div>
+<hr>
+<div>
+    <p>liczby</p>
+    <meter min="0" max="30" value="20">20 liczb</meter><br>
+</div>
+<hr>
+<h1>150 z liczby 300</h1>
+<progress max=300 value=150>50%</progress><br>
+</body>
+</html>

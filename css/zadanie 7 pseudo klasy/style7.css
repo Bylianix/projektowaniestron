@@ -1,0 +1,31 @@
+ .h1:link {
+     color: blue;
+ }
+ .h2:hover {
+      transform: translateY(-2px);
+      box-shadow: red 2px 5px 10px 3px;
+  }
+.h3:visited{
+    color: purple;
+
+
+}
+.h4:active{
+    transform: translateY(-3px);
+    box-shadow: blue 4px 5px 10px 5px;
+      color: orangered;
+}
+.h5:focus{
+    transform: translateY(-3px);
+    box-shadow: orange 4px 5px 10px 5px;
+      color: orangered;
+}
+button{
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    background-color: aqua;
+}
+body{
+    background-color:blueviolet;
+}

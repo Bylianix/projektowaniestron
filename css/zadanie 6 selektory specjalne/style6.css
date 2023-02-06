@@ -1,0 +1,9 @@
+div>p{
+    text-align: center;
+}
+div>p+p{
+    text-align: right;
+}
+div+p{
+    text-align: left;
+}   

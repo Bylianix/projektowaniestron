@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    autor:Bastian Przybylski
+    <link rel="stylesheet" href="trampki.css">
+</head>
+<body>
+    
+    <fieldset>
+        <legend><h1>Podstawowe dane</h1></legend>
+    <table>
+        
+        
+        
+        <tr>
+            <td>Imię i nazwisko</td> <td><input type="text" name="surname" name="lastname" value="" size="30"></td>
+        </tr>
+        <tr>
+            <td>e-mail</td><td><input type="text" name="email" value="" size="30"></td>
+        </tr>
+        <tr>
+            <td>telefon</td> <td><input type="text" name="telephone" value="" size="30"></td>
+        </tr>
+        <tr>
+            <td>moje buty są takie stare</td>
+        </tr>
+        <tr>
+            
+            <td><textarea name="list" cols="37" rows="7"></textarea></td>
+        </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend><h1>zaprojektuj własne trampki</h1></legend>
+        <table>
+            <fieldset>
+                <legend>własny projekt butów</legend>
+                <fieldset>
+                    <legend>kolor <i>(wybierz jeden)</i></legend>
+
+                            <p><input type="radio" value="czerwony" name="kolor">czerwony</p>
+                            <p><input type="radio" value="niebieski" name="kolor">niebieski</p>
+                            <p><input type="radio" value="czarny" name="kolor">czarny</p>
+                            <p><input type="radio" value="srebny" name="kolor">srebny</p>
+
+
+                    
+                </fieldset>
+                <fieldset>
+                    <legend>opcje <i>(możesz wybrać kilka)</i></legend>
+                    <p><input type="checkbox" name="trampki" id="">błyszczącza sznurówka</p>
+                    <p><input type="checkbox" name="trampki" id="">metalowe logo</p>
+                    <p><input type="checkbox" name="trampki" id="">świecące podeszwy</p>
+                    <p><input type="checkbox" name="trampki" id="">odtwarzacze mp3</p>
+
+                </fieldset>
+                <fieldset>
+                    <legend>rozmiar</legend>
+                    <p>rozmiar zgodny ze standardowymi numerami butów<input list="rozmiar" name="rozmiar" ></p>
+                    <datalist id="rozmiar">
+                        <option value="37"></option>
+                        <option value="38"></option>
+                        <option value="39"></option>
+                        <option value="40"></option>
+                        <option value="41"></option>
+                        <option value="42"></option>
+                        <option value="43"></option>
+                        <option value="44"></option>
+                        <option value="45"></option>
+                        <option value="46"></option>
+                        <option value="47"></option>
+                    </datalist>
+                </fieldset>
+            </fieldset>
+
+        </table>
+    </fieldset>
+    <input type="submit" value="podrasuj swoje buty" name="wyślij">
+    <input type="reset" value="Wyczyść" name="zeruj">   
+
+
+
+</body>
+</html>
