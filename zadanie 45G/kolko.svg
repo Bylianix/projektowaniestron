@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="kolko.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73940797"
+     inkscape:cx="135.24334"
+     inkscape:cy="561.93606"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect17537"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Jeśli po konwersji przycięcia na ścieżki nie zostanie spłaszczony wynik, użyj reguły wypełniania w oknie dialogowym &lt;b&gt;wypełnienie i obrys&lt;/b&gt; ." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17533">
+      <rect
+         style="display:none;opacity:1;fill:#ff2a2a;fill-opacity:0.776471;stroke:#2c89a0;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17535"
+         width="222.11699"
+         height="78.984436"
+         x="-8.3608932"
+         y="181.64751"
+         d="M -8.3608932,181.64751 H 213.7561 v 78.98443 H -8.3608932 Z" />
+      <path
+         id="lpe_path-effect17537"
+         style="opacity:1;fill:#ff2a2a;fill-opacity:0.776471;stroke:#2c89a0;stroke-width:0;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M 10.401444,55.845699 H 198.21425 V 243.65902 H 10.401444 Z M -8.3608932,181.64751 v 78.98443 H 213.7561 v -78.98443 z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path273"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.776471;stroke:#2c89a0;stroke-width:15;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       d="m 104.30785,68.345699 a 81.406624,81.406624 0 0 0 -81.406406,81.406921 81.406624,81.406624 0 0 0 81.406406,81.4064 81.406624,81.406624 0 0 0 81.4064,-81.4064 81.406624,81.406624 0 0 0 -81.4064,-81.406921 z"
+       clip-path="url(#clipPath17533)"
+       inkscape:path-effect="#path-effect17537"
+       inkscape:original-d="m 104.30785,68.345699 a 81.406624,81.406624 0 0 0 -81.406406,81.406921 81.406624,81.406624 0 0 0 81.406406,81.4064 81.406624,81.406624 0 0 0 81.4064,-81.4064 81.406624,81.406624 0 0 0 -81.4064,-81.406921 z" />
+  </g>
+</svg>

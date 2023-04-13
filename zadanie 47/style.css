@@ -1,0 +1,87 @@
+body{
+    background: linear-gradient(wheat , yellow);
+}
+
+#all {
+
+    margin: 200px;
+    font-size: larger;
+}
+#blok{
+
+
+}
+#photo1 {
+    margin-top: 150px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: photo1;
+    animation-duration: 4s;
+}
+@keyframes  photo1{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+#photo2 {
+    margin-top: 230px;
+
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: relative;
+    transition: transform 3s ease-in-out;
+}
+#photo2:hover{
+    transform: rotate(360deg);
+}
+#photo3 {
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    transition: transform 2s ease-in-out;
+}
+#photo3:hover{
+    transform: translateX(700px) scale(0.8);
+
+}
+#photo3 {
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+
+
+
+}
+#photo4{
+    margin-top: 200px;
+}
+.blok{
+    transition: transform 2s ease-in-out;
+}
+.blok:hover {
+    transform: translateX(500px) rotateX(360deg);
+}
+#photo5 {
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    transition: transform 2s ease-in-out;
+}
+#photo5:hover{
+    transform: translateX(700px) rotateY(720deg);
+
+}
+
+
+
+
+
