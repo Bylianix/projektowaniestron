@@ -1,0 +1,64 @@
+button
+{
+    width: 300px;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    background: none;
+    background: transparent;
+    border-color: orange;
+    text-align: center;
+}
+button:hover{
+    transform: translateY(-4px);
+    box-shadow: orange 2px 5px 10px 3px;
+    color: red;
+}
+#gora
+{
+    
+    
+    height: 100px;
+    text-align: center;
+    background: linear-gradient(90deg, red, orange, yellow);
+    color: white;
+    width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+    
+    
+
+}
+body
+{
+    background-image: url(święta.webp);
+}
+#baner
+{
+    height: 100px;
+    text-align: center;
+    background: linear-gradient(90deg,  yellow, orange, yellow);
+    opacity: 80%;
+    width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+menu
+{
+    text-align: center;
+
+}
+#tekst{
+    height: 500px;
+    text-align: center;
+    background: linear-gradient(90deg, red, orange, red);
+    color: black;
+    width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+    font-size: large;
+
+}
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
