@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    margin: 20px;
+    margin-left: 150px;
+}
+#menu{
+    background-color: aquamarine;
+    width: 200px;
+    height: 650px;
+    float: left;
+}
+#gora{
+    background-color: white;
+    width: 1000px;
+    height: 50px;
+    float: right;
+    text-align:center;
+}
+#stopka{
+    background-color: cyan;
+    height: 80px;
+    clear: both;
+    width: 1200px;
+    text-align: center;
+}
+#caly{
+    width: 1200px;
+    height: 750px;
+}
+#zdjecie{
+    height: 600px;
+    width: 1000px;
+    float: right;
+    text-align: center;
+    background-color: chartreuse;
+
+}
+h3{
+    margin-left: 10px;
+}
+dt{
+    margin-left: 30px;
+}
+#zdjecie2{
+
+    height: 650px;
+    width: 1000px;
+    float: right;
+    text-align:center;
+    background-color: chartreuse;
+
+}
+

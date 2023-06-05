@@ -171,11 +171,18 @@ section.home {
   grid-template-columns: repeat(3, 1fr);
   gap: 40px;
   text-align: center;
+
 }
 
 .services .service {
   padding: 30px;
+  color: black;
+  text-decoration: none;
 }
+a{
+  text-decoration: none;
+}
+
 
 .services .service:hover {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
